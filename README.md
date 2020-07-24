@@ -8,5 +8,5 @@ Websites:
 <br></br>
 
 Projects:
-- Coffee Machine *Python*
+- Coffee Machine (*Python*)
 
